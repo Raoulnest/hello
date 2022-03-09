@@ -1,0 +1,70 @@
+
+body{
+	background-color:gray;
+}
+.liste{
+display: inline-block;text-align: justify;
+	width: 40%;border-radius: 1px dashed black;
+	margin-right: 40px;margin-left: 10px;
+	margin-top: 100px;
+	box-shadow: 6px 2px 20px black;
+    
+}
+.liste h2{
+	text-align: center;
+}
+.liste a{
+	color: black;
+}
+.retouche{
+	width: 50%;height: 50%;border-radius: 50px;
+}
+
+.colonnes{
+	margin-bottom: 70px;margin-top: -225px;text-align: right;
+   
+}
+
+.colonne1{
+	display:inline-block;text-align: justify;
+	width: 50%;
+	top: fixed;
+	margin-right: 30px;
+	padding-right: 10px;padding-left: 10px;
+	border-radius: 1px solid black; box-shadow: 6px 2px 20px black;
+}
+.colonne2{
+	display:inline-block;text-align: justify;
+	width: 50%;
+	margin-right: 30px;
+	padding-right: 10px;padding-left: 10px;
+	border-radius: 1px solid black; box-shadow: 6px 2px 20px black;
+}
+.colonne3{
+	display:inline-block;text-align: justify;
+	width: 50%;
+	margin-right: 30px;
+	padding-right: 10px;padding-left: 10px;
+	border-radius: 1px solid black; box-shadow: 6px 2px 20px black;
+}
+.colonne4{
+	display:inline-block;text-align: justify;
+	width: 50%;
+	margin-right: 30px;
+	padding-right: 10px;padding-left: 10px;
+	border-radius: 1px solid black; box-shadow: 6px 2px 20px black;
+}
+
+.liste a:hover{
+	color: yellow;
+}
+aside .telechargement{
+	display: inline-block;text-align: justify;
+	width: 40%;border: 1px dashed black;
+	margin-right: 40px;margin-left: 10px;
+	margin-top: 300px;
+	box-shadow: 6px 2px 20px black;
+}
+aside .telechargement a:hover{
+	color:green;
+}
