@@ -1,4 +1,3 @@
-
 <? php
 session_start();
 
@@ -9,7 +8,7 @@ echo "BIENVENUE".$_SESSION['phone'];
 <head>
 	<meta charset="utf-8">
 	<title>menu de site</title>
-	<link rel="stylesheet" type="text/css" href="infos.css">
+	<link rel="stylesheet" type="text/css" href="infosO.css">
 </head>
 <body>
 	<?php include('menu.php');?>
@@ -22,7 +21,7 @@ echo "BIENVENUE".$_SESSION['phone'];
  			<a href="#">Systeme d'exploitation</a><br>
  			<a href="#">Reseau</a><br>
  			<a href="#">Web</a><br>
- 			<a href="#"><h2>Programation<h2></a></b><br><br><br>
+ 			<a href="#">Programation</a></b><br><br><br>
  			</ul>
  		</div>
  	</div>

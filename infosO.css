@@ -1,0 +1,15 @@
+
+body{
+	background-color:gray;
+}
+.liste{
+display: inline-block;text-align: justify;
+	width: 40%;border-radius: 1px dashed black;
+	margin-right: 40px;margin-left: 10px;
+	margin-top: 100px;
+	box-shadow: 6px 2px 20px black;
+    
+}
+.liste a{
+	color: white;
+}
